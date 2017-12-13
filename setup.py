@@ -4,7 +4,7 @@ from io import open
 
 setup(
     name='checksum-cli',
-    version='0.1.0',
+    version='0.1.1',
     packages=find_packages(),
     url='https://github.com/cupen/checksum-cli',
     license='WTFPL',
@@ -25,7 +25,6 @@ setup(
         "Development Status :: 3 - Alpha",
         "Environment :: Console",
         "Intended Audience :: Developers",
-        "License :: OSI Approved :: WTFPL License",
         "Topic :: Utilities",
         "Programming Language :: Python :: 2.7",
         "Programming Language :: Python :: 3.4",
